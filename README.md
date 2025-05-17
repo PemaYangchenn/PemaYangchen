@@ -31,7 +31,7 @@ GCIT | Feb 2024 – Jun 2024
 
 ---
 
-## Selected Projects
+## Key Projects
 
 **AI-Powered Sign Language to Voice Assistant**  
 - Built using LSTM and GRU networks.  
@@ -76,7 +76,7 @@ GCIT | Feb 2024 – Jun 2024
 
 **Programming:** Python, SQL, JavaScript  
 **Libraries/Frameworks:** TensorFlow, Scikit-learn, Pandas, NumPy, NLTK, Matplotlib  
-**Tools:** Streamlit, Spark, Figma, Git, Power BI  
+**Tools:** Streamlit, Spark, Figma, Git  
 **Domains:** Deep Learning, NLP, Data Analysis, IoT Systems, UX Design
 
 ---
